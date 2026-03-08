@@ -1,0 +1,2 @@
+# ducknft-manifest
+test
